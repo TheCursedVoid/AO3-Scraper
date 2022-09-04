@@ -1,7 +1,7 @@
 # AO3-Scraper
-This executable is an AO3 Scraper. It allows you to save the bookmarks, and works of a user, and your own subscriptions.
+This is an AO3 Scraper. It allows you to save the bookmarks, and works of a user, and your own subscriptions.
 
-Libraries need to be installed for the python script to work are tkinter, mechanicalsoup, bs4, and pathlib. All other libaries should come installed with Python, but if not you can just check the imports.
+Windows thinks that the .exe is a virus so I included the source code. You'll need to donwload both python files and have them in the same folder for it to work. It has only been tested on windwos. There are libraries need to be installed for the python script to work. They are tkinter, mechanicalsoup, bs4, and pathlib. All other libaries should come installed with Python, but if not you can just check the imports.
 
 This script has not been optimized. There are probably a lot of instances where things could be done faster, or more efficiently, and there is definently some dead code in there. This was orignially just a simple script to get the links of all my bookmarks so I can upload to wayback. 
 
